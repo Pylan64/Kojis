@@ -48,3 +48,6 @@ class faces():
     
     def earth_americas():
         return '🌍'
+    
+    def python():
+        return ''
