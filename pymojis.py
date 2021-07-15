@@ -29,3 +29,15 @@ class faces():
 
     def binary():
         return '�'
+    
+    def smiling_face_with_sunglasses():
+        return '😎'
+    
+    def wrapped_gift():
+        return '🎁'
+    
+    def birthday_cake():
+        return '🎂'
+    
+    def man_shrugging():
+        return '🤷‍♂️'
