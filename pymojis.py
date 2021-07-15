@@ -51,3 +51,7 @@ class faces():
     
     def python():
         return '🐍'
+    
+class emoticons():
+    
+    
