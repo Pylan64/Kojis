@@ -64,7 +64,7 @@ class emoticons():
         return ':D'
     
     def laughing2():
-        return 'XD'
+        return 'XD
     
     def laughing3():
         return '8D'
@@ -77,3 +77,11 @@ class emoticons():
     
     def sadness():
         return 'D:'
+    
+    def suprise():
+        return ':O'
+    
+    def wink():
+        return ';)'
+    
+    def 
