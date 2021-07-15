@@ -1,3 +1,4 @@
+
 #Emoji Amazing
 
 class faces():
@@ -41,3 +42,9 @@ class faces():
     
     def man_shrugging():
         return '🤷‍♂️'
+    
+    def earth():
+        return '🌍'
+    
+    def earth_americas():
+        return '🌍'
