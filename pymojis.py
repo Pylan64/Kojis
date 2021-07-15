@@ -52,6 +52,13 @@ class faces():
     def python():
         return '🐍'
     
+    def party_popper():
+        return '🎉'
+    
+    def rose():
+        return '🌹'
+   
+    
 class emoticons():
     
     def smiley_face():
@@ -83,5 +90,4 @@ class emoticons():
     
     def wink():
         return ';)'
-    
-    def 
+   
