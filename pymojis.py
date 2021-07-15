@@ -25,4 +25,7 @@ class faces():
     def ghost():
         return '☠'
 
+#1.3    
 
+    def binary():
+        return '�'
