@@ -25,6 +25,13 @@ Kojis is created by Pylan & Friends
 
 # Get started with Kojis
 
+>Hello World but with Kojis...
+
+``import kojis``
+
+``print("Hello " + )``
+
+
 
 
 
