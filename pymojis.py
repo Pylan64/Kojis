@@ -50,4 +50,4 @@ class faces():
         return '🌍'
     
     def python():
-        return ''
+        return '🐍'
