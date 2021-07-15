@@ -60,13 +60,13 @@ class emoticons():
     def sad_face():
         reuturn ':('
         
-    def laughing():
+    def laughing1():
         return ':D'
     
-    def laughing():
+    def laughing2():
         return 'XD'
     
-    def laughing():
+    def laughing3():
         return '8D'
     
     def very_happy_or_double_chin ():
