@@ -54,4 +54,26 @@ class faces():
     
 class emoticons():
     
+    def smiley_face():
+        return ':)'
     
+    def sad_face():
+        reuturn ':('
+        
+    def laughing():
+        return ':D'
+    
+    def laughing():
+        return 'XD'
+    
+    def laughing():
+        return '8D'
+    
+    def very_happy_or_double_chin ():
+        return ':-))'
+    
+    def sad():
+        return ':('
+    
+    def sadness():
+        return 'D:'
