@@ -23,5 +23,8 @@ Kojis is created by Pylan & Friends
 >>2.1 
 >>>Bug Fix
 
+# Get started with Kojis
+
+
 
 
