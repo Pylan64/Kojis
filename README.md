@@ -33,6 +33,13 @@ Kojis is created by Pylan & Friends
 
 ``import kojis
   print("Hello " + Kojis.faces.earth)``
+  
+  # Letter from the authors
+  
+ >The source code for Kojis was created by Pylan and fellow Pypi Contributor TechnoBlade along with an README writer
+  
+  
+  
 
 
 
