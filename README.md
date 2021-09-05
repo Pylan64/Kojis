@@ -8,7 +8,7 @@ Kojis is created by Pylan & Friends
 
 >> Kojis description added to
 
->> Kojis Version 2x  confirmed by creators
+
 
 
 
