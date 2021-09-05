@@ -20,8 +20,9 @@ Kojis is created by Pylan & Friends
 
 >Hello World but with Kojis...
 
-``import kojis
-  print("Hello " + Kojis.faces.earth)``
+``import kojis``
+
+ ``print("Hello " + Kojis.faces.earth)``
   
   # Letter from the authors
   
