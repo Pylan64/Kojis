@@ -23,8 +23,7 @@ Kojis is created by Pylan & Friends
 ``import kojis``
 
  ``print("Hello " + Kojis.faces.earth)``
- 
- >>psst... 1.4 adds a CLI
+
   
   # Letter from the authors
   
