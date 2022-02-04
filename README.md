@@ -28,6 +28,10 @@ Kojis is created by Pylan & Friends
   # Letter from the authors
   
  >The source code for Kojis was created by Pylan and fellow Pypi Contributor TechnoBlade along with an README writer
+
+  ##Release History
+  >1.3 GitHub release
+  >1.4 in dev 
   
   
   
