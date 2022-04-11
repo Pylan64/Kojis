@@ -1,4 +1,5 @@
-
+import flask
+import turtle
 #Emoji Amazing
 
 class faces():
@@ -90,6 +91,23 @@ class emoticons():
     
     def wink():
         return ';)'
+    
+#1.4
 
 class blastoff:
     #Blastoof's server code will be here!
+    
+
+class Polygon:
+    def __init__(self, size, sides, name="NoName!"):
+        self.sides = sides
+        self.name = name
+        self.size = size
+        self.interior_angles = (self.sides-2) * 180
+        self.angle = self.interior_angles / self.sides
+
+    def draw(self):
+        for i in range(self.sides):
+            turtle.forward(self.size)
+            turtle.right(180 - self.angle)
+        turtle.done
