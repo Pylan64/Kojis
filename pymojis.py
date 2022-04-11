@@ -90,4 +90,6 @@ class emoticons():
     
     def wink():
         return ';)'
-   
+
+class blastoff:
+    #Blastoof's server code will be here!
