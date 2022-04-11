@@ -1,4 +1,4 @@
-import flask
+from flask import Flask, render_template
 import turtle
 #Emoji Amazing
 
@@ -95,8 +95,20 @@ class emoticons():
 #1.4
 
 class blastoff:
-    #Blastoof's server code will be here!
     
+    #Blastoof's server code will be here!
+    def __init__(self, file):
+        self.file = file
+        
+    app = Flask(__name__)
+
+    @app.route('/')
+    def render():
+        return render_template(file)
+
+    if __name__=='__main__':
+        app.run(debug=True)
+
 
 class Polygon:
     def __init__(self, size, sides, name="NoName!"):
@@ -111,3 +123,4 @@ class Polygon:
             turtle.forward(self.size)
             turtle.right(180 - self.angle)
         turtle.done
+        
