@@ -8,6 +8,8 @@ Kojis is created by Pylan & Friends
 
 >> Kojis description added to
 
+>> Kojis 1.4 Bugfixes (7/20/)
+
 
 
 
